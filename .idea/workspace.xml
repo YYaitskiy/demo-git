@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="09a2e19f-94bc-4781-97f5-dbd85acded46" name="Changes" comment="init commit">
-      <change afterPath="$PROJECT_DIR$/src/TestClass1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TestGitMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TestGitMain.java" afterDir="false" />
+    <list default="true" id="09a2e19f-94bc-4781-97f5-dbd85acded46" name="Changes" comment="test commit 2">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +17,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -35,6 +39,12 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false"
+  },
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+      "module",
+      "directory"
+    ]
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -45,7 +55,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1746455235610</updated>
-      <workItem from="1746455237078" duration="564000" />
+      <workItem from="1746455237078" duration="2776000" />
+      <workItem from="1746508627724" duration="2018000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <created>1746455521899</created>
@@ -54,7 +65,28 @@
       <option name="project" value="LOCAL" />
       <updated>1746455521899</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="test commit">
+      <created>1746455827749</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1746455827749</updated>
+    </task>
+    <task id="LOCAL-00003" summary="test commit demo git">
+      <created>1746456359761</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1746456359761</updated>
+    </task>
+    <task id="LOCAL-00004" summary="test commit 2">
+      <created>1746457288480</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1746457288480</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -65,7 +97,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="demo-git" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -73,6 +117,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="init commit" />
+    <MESSAGE value="test commit" />
+    <MESSAGE value="test commit demo git" />
+    <MESSAGE value="test commit 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="test commit 2" />
   </component>
 </project>
